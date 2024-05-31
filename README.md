@@ -1,4 +1,4 @@
-# Threads_Cpp
+# Thread_Cpp
 Projeto 1 - Thread
 
 Para Linkar com arquivo
